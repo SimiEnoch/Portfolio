@@ -30,13 +30,16 @@ function About() {
           About Me
         </h2>
         <p className="text-lg" data-aos="fade-up">
-          Simi is a self-taught web developer with a strong passion
-          for learning and matering the art of web development. I have
-          acquired comprehensive skills and developing creative
-          websites. With a focus on staying-up-to-date with the latest
-          technologies. I am highly dedicated to delivering high
-          quality, web solutions that meet clients unique
-          requirements.
+          Welcome to my world of web development! I'm Simi, a
+          self-taught web developer dedicated to mastering the art of
+          creating exceptional websites. With a strong passion for
+          learning and staying-up-to-date with the latest
+          technologies, I deliver high-quality, customized web
+          solutions. I pride myself on clean, efficient code and
+          effective communication, ensuring a seamless collaboration
+          <br />
+          Explore some of my projects and Let's build the web
+          together!
         </p>
         <ul
           data-aos="fade-up"

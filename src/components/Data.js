@@ -15,13 +15,13 @@ const Datas = [
     id: 2,
     img: `${html}`,
     h4: 'HTML and CSS',
-    p: 'HTML and CSS expert with a good knowledge of responsiveness and cross-browser compatability.',
+    p: 'HTML and CSS expert with extensive knowledge of responsiveness and cross-browser compatability.',
   },
   {
     id: 3,
     img: `${react}`,
     h4: 'React JS',
-    p: 'Proficient in React with a good Javascript Knowledge to improve performance of your web app.',
+    p: 'Proficient in React with extensive Javascript Knowledge to improve performance of your web app.',
   },
   {
     id: 4,
