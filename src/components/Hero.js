@@ -44,6 +44,7 @@ function Hero() {
       </div>
       <img
         src={hero}
+        alt="hero-component"
         className="row-start-1 md:row-auto rounded-2xl"
       />
     </section>

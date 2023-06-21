@@ -30,7 +30,7 @@ function Skills() {
         {Datas.map((data) => {
           return (
             <div>
-              <img src={data.img} className="m-auto" />
+              <img src={data.img} className="m-auto" alt="projects" />
               <h4 className="font-bold my-2">{data.h4}</h4>
               <p className="text-lg">{data.p}</p>
             </div>

@@ -26,6 +26,7 @@ function Header() {
         <img
           className=" md:hidden w-10 absolute top-[17px] fill-white right-[25px] "
           src={close}
+          alt="close-nav"
           onClick={closeNav}
         />
         <ul className=" flex gap-9 md:gap-4 flex-col md:flex-row items-center text-3xl md:text-base ">

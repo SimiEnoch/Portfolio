@@ -18,6 +18,7 @@ function About() {
     >
       <img
         src={about}
+        alt="about"
         className="row-start-2 md:row-auto rounded-[50%]"
         data-aos="fade-down"
       />

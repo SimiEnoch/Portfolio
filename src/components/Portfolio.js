@@ -15,7 +15,7 @@ function Portfolio() {
     <section id="portfolio" className="p-8 md:p-16">
       <h4
         data-aos="fade-up"
-        className="text-2xl font-bold text-[#EF0178]  text-red-700 text-center mb-5 "
+        className="text-2xl font-bold  text-red-700 text-center mb-5 "
       >
         My Works
       </h4>
@@ -34,6 +34,7 @@ function Portfolio() {
             >
               <img
                 src={data.img}
+                alt="data"
                 className="md:w-60 w-[100%] rounded"
               />
               <div className="flex flex-col gap-5">

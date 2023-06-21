@@ -24,10 +24,10 @@ function Contact() {
 
     emailjs
       .sendForm(
-        'service_i7l9h0f',
-        'template_3pirfs5',
+        'service_3ogkzn5',
+        'template_9tkp1hd',
         form.current,
-        '7A4-3rHIbnPWSRvPd'
+        'ZTgiqMJol9MDexhaR'
       )
       .then(
         (result) => {
@@ -42,6 +42,7 @@ function Contact() {
           console.log(error.text);
         }
       );
+    e.target.reset();
   };
 
   return (
