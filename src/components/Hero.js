@@ -1,5 +1,6 @@
 import '../App.css';
 import hero from '../images/hero.png';
+import hero1 from '../images/hero-removebg-preview.png';
 import { useEffect } from 'react';
 import Aos from 'aos';
 import 'aos/dist/aos.css';
@@ -43,7 +44,7 @@ function Hero() {
         </button>
       </div>
       <img
-        src={hero}
+        src={hero1}
         alt="hero-component"
         className="row-start-1 md:row-auto rounded-2xl"
       />

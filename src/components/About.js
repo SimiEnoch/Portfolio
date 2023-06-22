@@ -1,5 +1,7 @@
 import '../App.css';
 import about from '../images/about.png';
+import about1 from '../images/about-removebg-preview.png';
+
 import { useEffect } from 'react';
 import Aos from 'aos';
 import 'aos/dist/aos.css';
@@ -17,7 +19,7 @@ function About() {
       className="grid md:grid-cols-2 items-center justify-center p-8 md:px-16 gap-5 "
     >
       <img
-        src={about}
+        src={about1}
         alt="about"
         className="row-start-2 md:row-auto rounded-[50%]"
         data-aos="fade-down"
