@@ -70,6 +70,7 @@ function Contact() {
             className=" bg-white rounded-xl"
           />
         </a>
+       
         <a
           href="https://wa.me/2349039446158"
           className="cursor-pointer "
@@ -80,6 +81,7 @@ function Contact() {
             className="cursor-pointer  bg-white rounded-xl"
           />
         </a>
+
         <a href="mailto:similoluwaenoch@gmail.com">
           <img
             src={gmail}
