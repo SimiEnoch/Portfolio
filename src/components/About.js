@@ -22,7 +22,7 @@ function About() {
         src={about1}
         alt="about"
         className="row-start-2 md:row-auto rounded-[50%]"
-        data-aos="fade-down"
+        data-aos="fade-up"
       />
       <div className="flex flex-col gap-5 items-center md:items-start text-center md:text-start">
         <h2

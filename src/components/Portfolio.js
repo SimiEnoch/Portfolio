@@ -23,7 +23,8 @@ function Portfolio() {
         data-aos="fade-up"
         className="mb-5 text-center font-bold text-lg"
       >
-        I have worked on a lot of projects, but here are a few:
+        I have worked on a lot of projects, but here are frontend of a
+        few:
       </p>
       <div className="flex flex-col gap-5">
         {PortData.map((data) => {

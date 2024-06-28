@@ -25,9 +25,7 @@ function Hero() {
           </div>
           <div data-aos="fade-right">
             I am a{' '}
-            <span className="  text-red-700">
-              Frontend Web Developer
-            </span>{' '}
+            <span className="  text-red-700">Web Developer</span>{' '}
             based in Nigeria.
           </div>
         </h1>
