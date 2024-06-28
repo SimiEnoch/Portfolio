@@ -14,7 +14,7 @@ const PortData = [
     id: 2,
     img: `${airbnb}`,
     link: 'https://airbnb-clone-beta-ten.vercel.app/',
-    p: 'In this project, i have created an Airbnb clone using React. We prioritized responsive design, robust listings, interactive maps, and most of the components and its functionalities functionalites working, and also some of its components with reviews and ratings. This journey continues with ongoing improvements and expansion, ensuring a top-notch user experience.',
+    p: 'In this project, i have created an Airbnb clone using React. I prioritized responsive design, robust listings, interactive maps, and most of the components and its functionalities functionalites working, and also some of its components with reviews and ratings. This journey continues with ongoing improvements and expansion, ensuring a top-notch user experience.',
     h4: 'Airbnb Clone - Zoom out for better view of the map',
   },
   // {
